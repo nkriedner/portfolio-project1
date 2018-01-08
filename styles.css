@@ -57,8 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/nils-saxonian-suisse.jpg') no-repeat top center;
-  background-position: center;
+  background: url('images/nils-saxonian-suisse.jpg') no-repeat center center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
