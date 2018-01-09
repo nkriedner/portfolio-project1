@@ -70,14 +70,15 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 4px solid salmon;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
+  background-color: salmon;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -86,7 +87,9 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
+  /*background-color: salmon;*/
   color: yellow;
+  color: salmon;
 }
 .card {
   margin: 30px;
@@ -163,6 +166,10 @@ a.social:hover {
 }
 
 /* Addition styles by Nils */
+
+.profile-image {
+
+}
 
 h2, .card span {
   text-align: center;
