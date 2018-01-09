@@ -164,7 +164,7 @@ a.social:hover {
 
 /* Addition styles by Nils */
 
-h2 {
+h2, .card span {
   text-align: center;
 }
 
@@ -178,6 +178,18 @@ h2 {
   margin: 0 auto;
 }
 
+.contact {
+  display: block;
+  text-align: center;
+}
+
+.beauty {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+  color: maroon;
+  margin-top: 2em;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
