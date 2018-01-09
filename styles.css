@@ -162,6 +162,23 @@ a.social:hover {
   clear: both;
 }
 
+/* Addition styles by Nils */
+
+h2 {
+  text-align: center;
+}
+
+.img-100 {
+  max-width: 100%;
+}
+
+.img-75 {
+  max-width: 75%;
+  display: block;
+  margin: 0 auto;
+}
+
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
